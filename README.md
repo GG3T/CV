@@ -1,2 +1,2 @@
-# CV
-Meu CV
+# My CV 
+Desenvolvedor Web full Stack !
